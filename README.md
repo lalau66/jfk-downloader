@@ -16,10 +16,10 @@ Usage:
     python jfk_pdf_downloader.py
 
 Requirements:
-    - Python 3.6+ (Python 3.11.3 or higher recommended) 
-    - review jfk-requirements.txt for full list of dependencies
+- Python 3.6+ (Python 3.11.3 or higher recommended) 
+- jfk-requirements.txt sets out full list of dependencies (to be installed in your env or venv) 
 
 Author: lalau66@GitHub
 License: MIT
 Date: March 24, 2025
-"""
+
