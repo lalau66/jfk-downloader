@@ -1,5 +1,3 @@
-Special-purpose downloader to download the files exposed at https://www.archives.gov/research/jfk/release-2025 
-"""
 JFK Archives 2025 Release PDF Downloader
 =======================================
 
@@ -7,6 +5,7 @@ This script downloads all PDF documents from the JFK Archives 2025 release
 by extracting all links from the index page and downloading them.
 
 Features:
+- Special-purpose downloader to download the PDF files exposed at https://www.archives.gov/research/jfk/release-2025 
 - Extracts all PDF links from the index page
 - Downloads all PDF documents while preserving filenames
 - Creates date-based folder structure
